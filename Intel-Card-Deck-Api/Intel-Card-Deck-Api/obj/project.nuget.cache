@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkfPpJSiGKUBsLl2McR20A4VPmhA0zGesPg65c08k8JYbEOGbdWcmFIP02HOSOcZCdEt06Y8zxVFvQ6LKVAMkw==",
+  "success": true,
+  "projectFilePath": "E:\\.Net Projects\\Intel-Card-Deck-Api\\Intel-Card-Deck-Api\\Intel-Card-Deck-Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arjun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Arjun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Arjun\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Arjun\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Arjun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Arjun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
